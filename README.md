@@ -7,7 +7,7 @@ FleetFlow replaces paper logbooks with a live digital command center — real-ti
 ## 🎬 Demo
 - https://drive.google.com/file/d/1zO4-WD5ZZP-F9dj_l0dIlv95W-a4xnL5/view?usp=sharing
 
-https://github.com/user-attachments/assets/8a2ab39f-e038-4de3-a1bb-1033daab6c1
+https://github.com/user-attachments/assets/06eb8f06-f60a-4ceb-af86-049a0aafa0dc
 ```
 
 ---
